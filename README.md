@@ -4,6 +4,10 @@ This is django project to reproduce the issue below.
 
 * Tailwind CSS code completion doesn't work if package.json, node_modules, and tailwind.config.js is in a subfolder : https://youtrack.jetbrains.com/issue/WEB-48964
 
+## tailwind.config.js
+
+* in [theme/static_src/](theme/static_src/)
+
 ## Order of reproduction
 
 1. Check Application in PC
